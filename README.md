@@ -1,5 +1,5 @@
 <h1 align="center">
-    Projeto construído durante o Next Level Week #01
+    Ecoleta
 </h1>
 
 <p align="center">
