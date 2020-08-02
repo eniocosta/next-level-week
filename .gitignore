@@ -13,6 +13,8 @@ mobile/web-build/
 
 #server
 server/node_modules/
+server/uploads/*
+!server/uploads/.gitkeep
 
 #web
 web/node_modules/
